@@ -1,0 +1,22 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermam/agenda.git"
+  },
+  "keywords": [
+    "agenda"
+  ],
+  "author": "Shermam Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shermam/agenda/issues"
+  },
+  "homepage": "https://github.com/shermam/agenda#readme"
+}
